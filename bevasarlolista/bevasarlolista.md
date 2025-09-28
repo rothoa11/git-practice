@@ -8,3 +8,4 @@
     vaj
     paradicsom
     hus
+    juhtúró
