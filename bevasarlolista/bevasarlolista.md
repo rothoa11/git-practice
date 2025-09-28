@@ -1,0 +1,3 @@
+## amik kellenek:
+    labda
+    cipő
