@@ -3,6 +3,9 @@
     cipő
     mez
 ## szendvicshez
-    margarin
-    zsömle
+    kenyer
+    sajt    
+    vaj
+    paradicsom
     hus
+    juhtúró

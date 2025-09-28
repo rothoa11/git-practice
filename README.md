@@ -236,7 +236,7 @@ Ezt követően szerkeszdd a `README.md` fájl ezt követő bekezdését, írd be
 ```md
 A következő feladatod, hogy a `bevásárlólista.md`-be is írd bele a juhtúrót.
 Ezt is mentsd és commitold, így mindkét helyre bekerült az új alapanyag.
-
+juhtúró
 ```
 Ha végeztél, commitolj.
 
